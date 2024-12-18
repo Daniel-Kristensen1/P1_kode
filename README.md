@@ -1,1 +1,1 @@
-# Github: /Users/daniel_kristensen/DAKI/opgaver/P1_kode/data.csv
+# Github: https://github.com/Daniel-Kristensen1/P1_kode
